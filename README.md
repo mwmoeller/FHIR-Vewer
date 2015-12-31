@@ -1,5 +1,7 @@
 # IHE-Node is an open source reference implemention of IHE profiles 
 
+[![Build Status](https://travis-ci.org/mwmoeller/IHE-Node.svg?branch=master)](https://travis-ci.org/mwmoeller/IHE-Node)
+
 The following profiles will be supported in the initial version of this reference implementation
 - ATNA
 - PIX
