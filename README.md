@@ -1,14 +1,22 @@
 # IHE-Node is an open source reference implemention of IHE profiles 
 
-The following profiles will be supported in the initial version of this reference implementation
+The following profile is supported in version 0.0.1
 - ATNA
-- PIX
-- PDQ
 
 This reference implementation will be implemented in NodeJS and provided as an NPM for simple inclusion in other NodeJS projects
 
 #Roadmap
-After the initial release, the following profiles will be implemented
-- XDS.b Registry and Repository
-- XCA
+##Version 0.0.1
+- ATNA
 
+##Version 0.1.0
+- PIX
+- PDQ
+
+##Version 0.2.0
+- XDS.b Registry and Repository
+
+##Longer term roadmap
+- XDS-I.b
+- XCA
+- XCA-I
