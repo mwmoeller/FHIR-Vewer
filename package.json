@@ -4,7 +4,7 @@
   "description": "An open source reference implementation of IHE profiles",
   "main": "app.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "bignum": "^0.11.0",
-    "uuid": "^2.0.1"
+    "uuid": "^2.0.1",
+    "mocha": "*"
   },
   "keywords": [
     "IHE",
